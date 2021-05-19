@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1621462660 source:c:\users\lenovo\desktop\tt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"Joueur.h"
+	"Lettre.h"
+	"Tentative.h"
+	<vector>
+	<algorithm>
+	<string>
+
+1621455325 c:\users\lenovo\desktop\tt\include\joueur.h
+	<iostream>
+	<string>
+
+1621455334 c:\users\lenovo\desktop\tt\include\lettre.h
+	<string>
+	<iostream>
+	<vector>
+
+1621460254 c:\users\lenovo\desktop\tt\include\tentative.h
+	<iostream>
+	<string>
+
+1621457218 source:c:\users\lenovo\desktop\tt\src\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1621460254 source:c:\users\lenovo\desktop\tt\src\lettre.cpp
+	"Lettre.h"
+	<string>
+	<iostream>
+
+1621455453 source:c:\users\lenovo\desktop\tt\untitled1.c
+
+1621460254 source:c:\users\lenovo\desktop\tt\src\tentative.cpp
+	"Tentative.h"
+	<iostream>
+	<cstring>
+	<cctype>
+
