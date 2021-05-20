@@ -6,12 +6,12 @@ using namespace std;
 
 Joueur::Joueur(string a , int i ,int j):score(i),record(j),name(a)
 {
-	cout<<"    Bienvenue "<<name<<" et votre score est : "<<score<<" votre record est : "<<record <<endl;
+	cout<<"    Bienvenue "<<name <<endl;
 }
 
 Joueur::~Joueur()
 {
-	cout<<"fin"<<endl;
+	cout<<"    ***********                  PARTIE TERMINEE !                        ***********"<<endl;
 }
 string Joueur::setName(string a){
 	name=a;

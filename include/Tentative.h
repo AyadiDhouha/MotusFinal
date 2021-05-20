@@ -10,7 +10,6 @@ class Tentative
 {
 
 	string motsaisi;
-	int Nbessais;
 
 	public:
 	    Tentative(){}

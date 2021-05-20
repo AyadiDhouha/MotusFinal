@@ -16,10 +16,6 @@ Tentative::~Tentative()
 
 }
 
-int Tentative::getNbessais(){
-	return Nbessais;
-}
-
 bool Tentative::controlesaisie(string mot){
     bool test=true;
     int i=0;
